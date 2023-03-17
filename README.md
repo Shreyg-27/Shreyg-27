@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreya Ganjoo</h1>
-<h3 align="center">Passionate developer with a hunger for learning and growth</h3>
+<h3 align="center">Passionate developer with a desire for learning and growth</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyg-27" alt="shreyg-27" /></a> </p>
 
